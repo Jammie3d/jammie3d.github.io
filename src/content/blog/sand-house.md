@@ -9,3 +9,4 @@ tags: ["Unreal Engine", "Work in Progress"]
 Currently working on a portfolio piece based on a concept by <a href="https://www.artstation.com/artwork/aooEz2" target="_blank">Andrej Rempel</a>.
 
 ![wip screenshot](/blog/sand-house/jay-morgan-wip001.webp)
+![wip screenshot](/blog/sand-house/jay-morgan-wip002.webp)
