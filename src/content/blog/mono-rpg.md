@@ -12,6 +12,7 @@ I worked with a team of great people to make a roleplaying experience in the For
 
 ![assets](/blog/mono-rpg/jay-morgan-medium-props.webp)
 ![assets](/blog/mono-rpg/jay-morgan-large-props.webp)
+![assets](/blog/mono-rpg/jay-morgan-materials-001.webp)
 ![screenshot](/blog/mono-rpg/monoford-monoworld-001.webp)
 ![screenshot](/blog/mono-rpg/monoford-monoworld-002.webp)
 ![screenshot](/blog/mono-rpg/monoford-monoworld-003.webp)
