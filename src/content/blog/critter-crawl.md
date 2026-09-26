@@ -19,3 +19,4 @@ I had a lot of fun experimenting with some hand-drawn 2D elements as well, I've 
 ![assets](/blog/critter-crawl/jay-morgan-assets002.webp)
 ![assets](/blog/critter-crawl/jay-morgan-assets003.webp)
 ![assets](/blog/critter-crawl/jay-morgan-assets004.webp)
+![shader](/blog/critter-crawl/jay-morgan-shader001.gif)
